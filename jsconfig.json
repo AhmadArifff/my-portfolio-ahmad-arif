@@ -1,0 +1,9 @@
+// filepath: d:\Github-Project-Portfolio\my-portfolio-ahmad-arif\tsconfig.json
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  }
+}
